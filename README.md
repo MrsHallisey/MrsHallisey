@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![profile picture](https://github.com/MrsHallisey/MrsHallisey/blob/main/chicken.jpg "Logo Title Text 1")
 
 **MrsHallisey/MrsHallisey** is a ✨ _special_ ✨ repository because its `README.md` 
 
